@@ -2,6 +2,9 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.x-blue)](https://www.python.org/downloads/)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/I-am-Programming-the-World/malicious-ip-blocker/actions)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/I-am-Programming-the-World/malicious-ip-blocker/blob/main/CONTRIBUTING.md)
+[![Issues](https://img.shields.io/github/issues/I-am-Programming-the-World/malicious_blocker)](https://github.com/I-am-Programming-the-World/malicious_blocker/issues)
 
 ## Description
 
